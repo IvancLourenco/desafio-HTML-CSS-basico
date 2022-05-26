@@ -3,7 +3,8 @@
 ## Tecnologias utilizadas 
 - HTML
 - CSS
-- Veja o resultado no link abaixo:
+ 
 ---
+## Veja o resultado no link abaixo:
 https://ivanclourenco.github.io/desafio-HTML-CSS-basico/
----
+
