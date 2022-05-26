@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    font-size: 2em;
+    background-color:rgb(63, 26, 26);
+    color: #fff;
+    width: 100%;
+    max-width: 85%;
+    max-height: 85%;
+    min-width: 0;
+    min-height: 0;
+    text-align: center;
+    margin: auto;
+    padding: 5px 5px;
+}
+.tabela{
+    color:#fff;
+    width: 100%;
+    max-width: 50%;
+    max-height: 50%;
+    min-width: 0;
+    min-height: 0;
+    text-align: center;
+    margin: auto;
+    padding: 5px 10px;
+    font-size: 1.5em;
+}
+.subtitulo{
+    text-align: center;
+    font-size: 2.0em;
+
+}
+
+.cor-de-fundo-moda {
+    background-color: #BB86FC;
+
+}
+
+.cor-de-fundo-casa{
+    background-color:#00C4B4 ;
+}
+.cor-tabela{
+    background-color: #424250;
+}
